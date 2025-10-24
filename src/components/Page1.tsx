@@ -2,7 +2,7 @@ import React from "react";
 
 const Page1 = () => {
   return (
-    <section className="py-12 px-6 lg:py-24">
+    <section className="py-12 px-6 lg:py-24 bg-[#DDE7F0]">
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-10">
         
         {/* ---------- TEXT SECTION ---------- */}
