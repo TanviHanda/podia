@@ -3,7 +3,7 @@ import { BsCheck } from 'react-icons/bs'
 const Page7 = () => {
   return (
     <section>
-      <div className='flex flex-col lg:flex-row gap-10 lg:pl-10 lg:pr-10 pt-35 pb-35 p-8'>
+      <div className='flex flex-col lg:flex-row gap-10 lg:pl-10 lg:pr-10 pt-35 pb-35 p-8 bg-[#DDE7F0]'>
         <div className='flex flex-col gap-2 '>
         <h2 className='font-bold text-2xl lg:text-4xl'>Turn your fans and customers into salespeople</h2>
         <p className='text-lg'>Affiliate marketing is built right into Podia and works with all product types, no third-party integrations required.</p>
