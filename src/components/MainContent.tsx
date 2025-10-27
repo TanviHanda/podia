@@ -6,6 +6,7 @@ import Page4 from './Page4'
 import Page5 from './Page5'
 import Page6 from './Page6'
 import Page7 from './Page7'
+import Page8 from './Page8'
 const MainContent = () => {
   return (
     <div >
@@ -16,8 +17,10 @@ const MainContent = () => {
         <Page5 />
         <Page6 />
         <Page7 />
+        <Page8 />
     </div>
   )
 }
 
 export default MainContent
+
